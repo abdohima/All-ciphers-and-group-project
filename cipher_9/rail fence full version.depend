@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519825582 source:f:\rail fence full version\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

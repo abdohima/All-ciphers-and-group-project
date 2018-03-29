@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1519426316 source:d:\ciphers\morse code [ 7 ]\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<bitset>
+
+1519529386 source:e:\ciphers\morse code [ 7 ]\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<iomanip>
+	<bitset>
+
+1519637655 source:e:\files\c++ projects\morse code [ 7 ]\main.cpp
+	<bits/stdc++.h>
+
+1519637655 source:c:\users\win\desktop\assignment_2\bonus\cipher_7\main.cpp
+	<bits/stdc++.h>
+
